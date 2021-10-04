@@ -14,7 +14,7 @@ This weeks project allows the developer to modify starter code to create an appl
 ----------------------------------------------------------
 
 
-> Deploy Link: [My Portfolio](https://hayvant.github.io/forgotmypassword/)
+> Deploy Link: [My Password Generator](https://hayvant.github.io/forgotmypassword/)
 
 
 ![Portfolio Screenshot](https://user-images.githubusercontent.com/89271807/135930585-6969742c-03c8-49db-a1ef-c6e2b0ae756a.png)
